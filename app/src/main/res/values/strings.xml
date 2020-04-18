@@ -1,0 +1,25 @@
+<resources>
+
+
+    //Titlea Tales
+    <string-array name="titles" >
+        <item>Simple Tale</item>
+        <item>Tarzan Tale</item>
+        <item>University Tale</item>
+    </string-array>
+
+    //Strings to activity_main
+    <string name="app_name">Mad Libs</string>
+    <string name="button_Start">Get Started!</string>
+
+    //String to activity_filling
+    <string name="text_filling">Fill in the words to complete the story!</string>
+    <string name="button_Continue">OK</string>
+
+    //Strings to activity_tale
+    <string name="text_title"> Title Tale</string>
+    <string name="text_tale"> Tale</string>
+    <string name="button_NewTale">Back to into </string>
+
+
+</resources>
