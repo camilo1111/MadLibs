@@ -1,7 +1,7 @@
 <resources>
 
 
-    //Titlea Tales
+    //Title Tales
     <string-array name="titles" >
         <item>Simple Tale</item>
         <item>Tarzan Tale</item>
